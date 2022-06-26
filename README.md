@@ -1,4 +1,4 @@
-# simpleproject-WordCountApp
+# Word Count App
 - Basic HTML, CSS and JavaScript
 - simple app to count word lenght
 
